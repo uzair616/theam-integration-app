@@ -1,1 +1,1 @@
-import '/vendor/jquery-easing/jquery.easing.min.js';
+import './vendor/jquery-easing/jquery.easing.min.js';
