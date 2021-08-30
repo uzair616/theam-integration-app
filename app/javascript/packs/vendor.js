@@ -1,1 +1,1 @@
-import 'Absolute Path';
+import 'vendor/jquery-easing/jquery.easing.min.js';
