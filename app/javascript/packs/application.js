@@ -8,7 +8,7 @@ import Turbolinks from "turbolinks"
 import * as ActiveStorage from "@rails/activestorage"
 import "channels"
 import "bootstrap"
-import 'sb-admin-2'
+import('./sb-admin-2');
 
 Rails.start()
 Turbolinks.start()
